@@ -9,8 +9,9 @@
   "dependencies": {
     "axios": "^0.24.0",
     "gsap": "^3.8.0",
+    "lottie-vuejs": "^0.4.0",
     "vue": "^3.0.0",
-    "vue-kinesis": "^2.0.5",
+    "vue-lottie": "^0.2.1",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
   },
