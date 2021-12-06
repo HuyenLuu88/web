@@ -5,7 +5,7 @@ import axios from './axios'
 import store from './store'
 import LottieAnimation from "lottie-vuejs/src/LottieAnimation.vue"; // import lottie-vuejs
 import { gsap } from "gsap";
-
+import './app.scss'
 const app = createApp(App)
 app.use(gsap)
 app.use(LottieAnimation)
